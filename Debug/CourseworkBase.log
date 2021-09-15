@@ -1,0 +1,42 @@
+﻿  DraggingDemo.cpp
+  DrawingSurface.cpp
+  enemyObject.cpp
+  FlashingDemo.cpp
+  GameState.cpp
+  ImageObjectDemo.cpp
+  JigsawDemo.cpp
+  mainfunction.cpp
+  BaseEngine.cpp
+  DisplayableObject.cpp
+  FontManager.cpp
+  ImageMappingDemo.cpp
+  MenuState.cpp
+  MyDemoA.cpp
+  PauseState.cpp
+  consumableObject.cpp
+  playerObject.cpp
+  psydjfiEngine.cpp
+  psydjfiTM.cpp
+  SaveNLoad.cpp
+  Generating Code...
+  Compiling...
+  ScoreState.cpp
+  SimpleImage.cpp
+  JasonsDemoA.cpp
+  JasonsObjectA.cpp
+  JasonsTileManager.cpp
+  PlayingCardsDemo.cpp
+  RawImage.cpp
+  SimpleDemo.cpp
+  StarfieldDemo.cpp
+  TileManager.cpp
+  BouncingBall.cpp
+  BouncingBallMain.cpp
+  TutState.cpp
+  ZoomingDemo.cpp
+  Generating Code...
+  MazeDemoMain.cpp
+  MazeDemoObject.cpp
+  MazeDemoTileManager.cpp
+  Generating Code...
+  CourseworkBase.vcxproj -> D:\Downloads (D)\Uni Local\CPPCoursework4-2020-PSYDJFI\/Debug\CourseworkBase2020.exe
